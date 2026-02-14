@@ -46,3 +46,7 @@ npm run dev
 ![Mobile1](screenshots/Mobile1.png)
 ![Mobile2](screenshots/Mobile2.png)
 ![Mobile3](screenshots/Mobile3.png)
+
+## Live Url
+
+### [Click here to go to the site](https://forty4tech-assignment-frontend.vercel.app/)
